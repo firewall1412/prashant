@@ -18,7 +18,7 @@ An starter blog site blog site company wants to build a sample Front End prototy
 
 
 ### Project Description :
-Core Idea of Project is to build an sample prototype Blog Website with the help of Gatby Js. The business-to-consumer aspect of product  (blog) is the most visible business use of the World Wide Web. The primary goal of sample prototype an blog site is to provide contents online with solving problems of customer solution.
+Core Idea of Project is to build an sample prototype starter blog website with the help of Gatby Js. The business-to-consumer aspect of product  (blog) is the most visible business use of the World Wide Web. The primary goal of sample prototype an blog site is to provide contents online with solving problems of customer solution.
 ### Primary Azure Technology :
 Static Web Apps
 
